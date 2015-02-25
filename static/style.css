@@ -1,0 +1,33 @@
+#speechArea {
+    width: 50%;
+    height: 3em;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+#ddlLang {
+    width: 200px;
+}
+
+.msgBox {
+    overflow: scroll;   /* スクロール表示 */
+    height: 10em;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.table-border{
+    border-top:4px double silver;
+    background-color:aliceblue;
+}
+
+.recognized{
+    color:black;
+}
+
+.recognizing{
+    color:red;
+}
